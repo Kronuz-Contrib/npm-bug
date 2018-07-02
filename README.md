@@ -1,6 +1,6 @@
 ### npm v6.1.0 error
 
-Error 404 when a package uses a subpackage at a certain revision but the the subpackage is originally from a folder which is at the requested version.
+Error 404 when a package uses a subpackage at a certain version but the the subpackage is originally from a folder which is at the requested version.
 
 To see this repository fail (npm v6.1.0) do the following:
 
